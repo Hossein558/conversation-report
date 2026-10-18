@@ -164,7 +164,7 @@ record 5  →  transcript.jsonl = 4,121 بایت   transcript_full.jsonl = 48,51
 
 ```text
 Created At: 2026-10-13T16:04:00+03:30
-File Path: `file:///C:/Users/he110749/.gemini/antigravity/brain/<ID>/.system_generated/steps/3059/output.txt`
+File Path: `file:///C:/Users/<Username>/.gemini/antigravity/brain/<ID>/.system_generated/steps/3059/output.txt`
 Total Lines: 7
 ```
 

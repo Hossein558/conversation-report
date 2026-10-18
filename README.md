@@ -87,7 +87,7 @@ python src/conversation_report.py <ConversationID>
 ```text
 ==============================================================================
 ConversationID : cf795541-f47d-4888-9a43-4bc011e7d1ea
-فایل مکالمه   : C:\Users\he110749\.gemini\antigravity\brain\cf795541-...\transcript.jsonl
+فایل مکالمه   : C:\Users\<Username>\.gemini\antigravity\brain\cf795541-...\transcript.jsonl
 حجم و رکورد    : 3.7 MB | 3051 رکورد
 بازه زمانی     : 2026-09-15T11:59:35Z  →  2026-10-13T12:34:01Z
 آخرین رکورد    : step=3062 source=MODEL type=PLANNER_RESPONSE status=DONE
